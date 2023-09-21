@@ -1,0 +1,5 @@
+1) Product-service
+		spring data jpa, spring web, lombok,h2 database
+		
+2) Customer-service
+			spring data jpa, spring web, lombok,h2 database
